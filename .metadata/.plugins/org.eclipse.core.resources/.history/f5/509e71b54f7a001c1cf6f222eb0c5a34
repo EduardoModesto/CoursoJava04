@@ -1,0 +1,25 @@
+package Class04;
+
+import java.util.Scanner;
+
+public class Class04 {
+
+	public static void main(String[] args) {
+
+		Scanner sc = new Scanner(System.in);
+		int hora;
+		
+			Int x = 5;
+		
+			System.out.println("Quantas Horas?");
+			hora = sc.nextInt();
+			
+			
+			if (x < 0) {
+			System.out.println("Boa tarde");
+			
+			}
+			System.out.println("Boa Noite");
+	}
+
+}
